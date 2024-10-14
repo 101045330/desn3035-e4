@@ -19,7 +19,8 @@ export default function Page() {
 
                 <div className="col-9">
 
-                    <img className="d-block w-100 mb-3" src="public/image1.jpg" alt="About MIN G." />
+                       <img className="d-block w-100 mb-3" src="https://fastly.picsum.photos/id/251/1280/720.jpg?hmac=YDyCcHsQDDzvzCfZ-MLi2fr2pFqpoH9OqSqmJFBwV7w" />
+
                     <h1>About Us</h1>
                     <p>
                         Yet more FrontEnd Design student at George Brown College, Toronto, Canada   (YMFS)                 
