@@ -5,10 +5,10 @@ export default function Header() {
 
         <div className="col-12 mb-4">
 
-            <h1>Elevate Your Coffee Experience</h1>
+            <h1>Welcome to Next.Js webfront</h1>
 
             <p className="small m-0">
-                Dive into the world of artisanal coffee roasting
+                Dive into the world of Javascript Everywhere
             </p>
 
         </div>

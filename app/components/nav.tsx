@@ -11,11 +11,11 @@ export default function Nav() {
                 </Link>
 
                 <Link href="/about" className="list-group-item list-group-item-action">
-                    About Us
+                    About 
                 </Link>
 
                 <Link href="/contact" className="list-group-item list-group-item-action">
-                    Contact Us
+                    Contact 
                 </Link>
 
             </div>
